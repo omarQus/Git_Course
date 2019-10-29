@@ -7,3 +7,6 @@ for elzero web school git course
 
 
 this is my note ( pull request video)
+
+
+this is second pull request with create new branch for this commit .....
